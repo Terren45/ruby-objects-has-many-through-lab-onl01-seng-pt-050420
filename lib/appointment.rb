@@ -19,7 +19,7 @@ class Appointment
     self.patient
   end
 
-  def doctor
+  def doctors
     self.doctor
   end
 
